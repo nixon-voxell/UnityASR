@@ -1,0 +1,19 @@
+{
+    "name": "VX.Speech.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b23efe0d0bd83184681bd63517e3c327",
+        "GUID:40edeadb9ac5b04429c09420ca142019",
+        "GUID:5c2b5ba89f9e74e418232e154bc5cc7a",
+        "GUID:fbc9f7bf5edea4a74a8942a98af6fe07"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
